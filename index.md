@@ -11,7 +11,7 @@ The A-4 was a cold war workhorse which proved to be a capable, reliable light at
 
 ### A-4E-C Version 2.3 Community Update
 
-Hello, A-4E-C pilots! We hope you are well. A-4E-C 2.3 brings greater compatibility with feautures introduced in DCS World 2.9, including fixes to radios, AGM-45 Shrikes, bomb fusing, and more. Thank you for flying the A-4E-C!
+Hello, A-4E-C pilots! We hope you are well. A-4E-C 2.3 brings greater compatibility with features introduced in DCS World 2.9, including fixes to radios, AGM-45 Shrikes, bomb fusing, and more. Thank you for flying the A-4E-C!
 ***DO NOT redistribute this mod without permission!***
 
 ### Contributing Developers
@@ -56,7 +56,7 @@ SkateZilla, uboats, Dr. Manius, LevelPulse, Cubeboy, Talo, GVad, OpticFlow, pohl
 ### Version 2.3 Changelog: Featured Items
 
 #### Added
-- AGM-45 Shrike seeker head selection compatibility and sound response. There are some limitations that require pilot attention. After you rearm and before takeoff, a new set of new bindings (LSHIFT+1, 2, 4, 5) allow you to define the desired seeker head reponse for each station. Dynamic spawn A-4E-C units with AGM-45s in their loadout assume a MK 50 seeker.
+- AGM-45 Shrike seeker head selection compatibility and sound response. There are some limitations that require pilot attention. After you rearm and before takeoff, a new set of new bindings (LSHIFT+1, 2, 4, 5) allow you to define the desired seeker head response for each station. Dynamic spawn A-4E-C units with AGM-45s in their loadout assume a MK 50 seeker.
 - AN/APR-25 RHWS audio responses for SA-8, SA-10, SA-11, SA-13, and SA-19 search and tracking radars. Like the SA-3, these units give no audible launch indication.
 - AN/ARA-63 MCL (ICLS) compatibility with Veinticinco de Mayo carrier.
 - A-4E-C (Scooter) version number is recorded in DCS.log.
