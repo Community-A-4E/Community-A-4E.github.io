@@ -2,10 +2,10 @@ theme: jekyll-theme-midnight
 title: Community A-4E Project
 name: The Community Repo for A-4E-C and its Official Submods
 navbar-links:
-  Download: "https://github.com/heclak/community-a4e-c/releases/latest"
-  Report a Bug: "https://github.com/heclak/community-a4e-c/issues"
+  Download: "https://github.com/Community-A-4E/community-a4e-c/releases/latest"
+  Report a Bug: "https://github.com/Community-A-4E/community-a4e-c/issues"
   Join our Discord: "https://discord.gg/tQZbkTQ"
-  View on Github: "https://github.com/heclak/community-a4e-c"
+  View on Github: "https://github.com/Community-A-4E/community-a4e-c"
   
 plugins:
   - jekyll-sitemap
