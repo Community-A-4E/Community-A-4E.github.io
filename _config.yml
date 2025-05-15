@@ -6,7 +6,8 @@ navbar-links:
   Report a Bug: "https://github.com/heclak/community-a4e-c/issues"
   Join our Discord: "https://discord.gg/tQZbkTQ"
   View on Github: "https://github.com/heclak/community-a4e-c"
-  
+github:
+  is_project_page: false
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
