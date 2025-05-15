@@ -120,13 +120,13 @@ Failure to perform these steps will result in DCS World not recognizing the modu
 
 Launch DCS World. If your installation was successful, the A-4E-C theme icon appears as a option in the main menu:
 
-![Image of DCS World Menu with A-4E-C Theme](https://cdn.discordapp.com/attachments/518815335013679104/926862242182488136/unknown.png)
+![Image of DCS World Menu with A-4E-C Theme](verify.png)
 
 ### Installation Troubleshooting
 
 Your correctly installed files should look something like the following image, substituting your Windows account name where the image displays *Partario*.:
 
-![Image of A-4E-C installation](https://cdn.discordapp.com/attachments/518815335013679104/886633761670828112/unknown.png)
+![Image of A-4E-C installation](troubleshoot.png)
 
 - If you have multiple DCS-related folders in your `%HOMEPATH%\Saved Games`, for example, `DCS`, or `DCS.openbeta`, and are unsure which folder your DCS World installation is using, locate the `dcs_variant.txt` file in the game files. If this file is present, its contents determines the folder structure your DCS World installation is using. Alternately, load DCS world and use the mission editor to create and save a mission. Search this mission file using Windows explorer to locate the proper folder structure.
 - If you have installed the module correctly but it still isn't showing up, ensure it's enabled in the DCS Module Manager. Note that the A-4E-C is not alphabetically arranged along with the official modules in this list, and will be enumerated near the end of the list.
@@ -135,7 +135,7 @@ Your correctly installed files should look something like the following image, s
 - If you can load a mission, but can't take control of the A-4E-C, ensure you have installed [Microsoft's Visual Studio 2015, 2017 and 2019 Redistributable libraries](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0). For most users, this is `vc_redist.x64.exe`. Restart your computer after installation of the appropriate libraries.
 - If you can't find the A-4E-C in the Mission Editor, ensure the historical mode filter is disabled by toggling the clock icon at the bottom of the screen, as shown in the following screenshot:
 
-![Image of the Mission Editor pointing out the location of the Historical Filter](https://cdn.discordapp.com/attachments/518815335013679104/1035712748715249714/unknown.png) 
+![Image of the Mission Editor pointing out the location of the Historical Filter](historical_filter.png) 
 
 ### In-Cockpit Troubleshooting
 
